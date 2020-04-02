@@ -1,3 +1,5 @@
+A simple game that allows you to click the gastank for coupons to be used at the gas station. The coupons are added to the player's profile page. The game is heavily based on the teacher's (Pekka Aalto) example game, burgerclicker. Only some of the visuals are changed.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
